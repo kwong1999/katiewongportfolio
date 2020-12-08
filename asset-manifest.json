@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/katiewongportfolio2020/static/css/main.a496dcd8.chunk.css",
-    "main.js": "/katiewongportfolio2020/static/js/main.6dab2708.chunk.js",
-    "main.js.map": "/katiewongportfolio2020/static/js/main.6dab2708.chunk.js.map",
+    "main.js": "/katiewongportfolio2020/static/js/main.39eacacc.chunk.js",
+    "main.js.map": "/katiewongportfolio2020/static/js/main.39eacacc.chunk.js.map",
     "runtime-main.js": "/katiewongportfolio2020/static/js/runtime-main.041f76fe.js",
     "runtime-main.js.map": "/katiewongportfolio2020/static/js/runtime-main.041f76fe.js.map",
     "static/js/2.98c3f6a6.chunk.js": "/katiewongportfolio2020/static/js/2.98c3f6a6.chunk.js",
@@ -43,6 +43,6 @@
     "static/js/runtime-main.041f76fe.js",
     "static/js/2.98c3f6a6.chunk.js",
     "static/css/main.a496dcd8.chunk.css",
-    "static/js/main.6dab2708.chunk.js"
+    "static/js/main.39eacacc.chunk.js"
   ]
 }
