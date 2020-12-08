@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Shrimp";
+  src: url("./fonts/SHRIMP.ttf") format("truetype");
+}
+
+.col {
+  float: left;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.contactPage {
+  background-color: rgb(155, 219, 219);
+}
+
+.contactButtons {
+  border: none;
+  background-color: transparent;
+}

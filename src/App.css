@@ -1,0 +1,130 @@
+@import url(//db.onlinewebfonts.com/c/961a181da27e7cbc072ec2fb5bbfe2a9?family=Circular+Std+Bold);
+.App {
+  text-align: center;
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+.rotate {
+  transform: rotate(-90deg);
+  font-family: inherit;
+  text-decoration: underline;
+  background-color: transparent;
+  font-size: 15px;
+  border: none;
+}
+.rotate:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 50px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.rotate2 {
+  transform: rotate(90deg);
+  font-family: inherit;
+  text-decoration: underline;
+  background-color: transparent;
+  font-size: 15px;
+  border: none;
+}
+
+.rotate2:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 50px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.coverExperienceMicrosoft {
+  background-image: url("./Components/images/msUI.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+}
+.coverExperienceSnapchat {
+  background-image: url("./Components/images/snapUI.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+}
+.coverExperienceNibble {
+  background-image: url("./Components/images/nibbleui.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+}
+.coverExperienceHackSC {
+  background-image: url("./Components/images/hackscUI.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+.coverExperienceAtt {
+  background-image: url("./Components/images/attUI.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+}
+.coverExperienceIronridge {
+  background-image: url("./Components/images/ironridgeFX.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1200px;
+}
+
+@font-face {
+  font-family: "circularSTD";
+  src: url("./Components/fonts/circular.otf") format("truetype");
+}
+
+.coverExperienceEquitas {
+  background-image: url("./Components/images/EquitasLogo.png");
+  background-position: center;
+  height: 600px;
+}
+.coverExperienceUsc {
+  background-image: url("./Components/images/uscUI.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1200px;
+}
+.coverExperienceInorout {
+  background-image: url("./Components/images/inorout.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;
+}
+.coverExperienceHackgirl {
+  background-image: url("./Components/images/hackgirlUI.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+}
+.coverExperienceLedspec {
+  background-image: url("./Components/images/ledSpecApp.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+}
+
+@font-face {
+  font-family: "Circular Std Bold";
+  src: url("//db.onlinewebfonts.com/t/961a181da27e7cbc072ec2fb5bbfe2a9.eot");
+  src: url("//db.onlinewebfonts.com/t/961a181da27e7cbc072ec2fb5bbfe2a9.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/961a181da27e7cbc072ec2fb5bbfe2a9.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/961a181da27e7cbc072ec2fb5bbfe2a9.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/961a181da27e7cbc072ec2fb5bbfe2a9.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/961a181da27e7cbc072ec2fb5bbfe2a9.svg#Circular Std Bold")
+      format("svg");
+}

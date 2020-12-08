@@ -1,0 +1,17 @@
+.aboutPage {
+  background-image: url("https://i.gifer.com/7HHU.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 2400px;
+  background-color: #ffe6ee;
+  font-family: "Shrimp";
+  color: black;
+  margin: 0px;
+  padding-top: 0px;
+}
+
+@font-face {
+  font-family: "Shrimp";
+  src: url("./fonts/SHRIMP.ttf") format("truetype");
+}
