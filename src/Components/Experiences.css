@@ -3,18 +3,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 1700px;
-}
-
-.backgroundText {
-  color: white; /* Fallback: assume this color ON TOP of image */
-  background: url("./images/metallicWater.JPG") no-repeat;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-size: 50px;
-  font-family: "Shrimp";
-  padding-right: 70%;
-  margin-top: 80px;
+  height: 100%;
 }
 
 .ExperienceTitle {

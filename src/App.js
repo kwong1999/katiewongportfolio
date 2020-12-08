@@ -97,6 +97,7 @@ class App extends Component {
 
   handleCallback = childData => {
     this.setState({ currentPage: childData });
+    window.scrollTo(0, 0);
   };
   componentWillMount() {
     this.setState({ currentPage: "home" });
