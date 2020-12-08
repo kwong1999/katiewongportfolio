@@ -111,7 +111,7 @@ class About extends Component {
             <div class="column" style={{ width: "10%" }}></div>
           </div>
           <div className="row">
-            <svg viewBox="0 20 500 100" preserveAspectRatio="none">
+            <svg viewBox="0 20 650 100" preserveAspectRatio="none">
               <text
                 y="70"
                 style={{

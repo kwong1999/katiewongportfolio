@@ -15,11 +15,11 @@ class Home extends Component {
               <div className="button2">{this.props.aboutTag}</div>
             </div>
             <div className="col" style={{ width: "60%", marginTop: "5%" }}>
-              <svg viewBox="-30 -30 400 100" preserveAspectRatio="none">
+              <svg viewBox="-30 -30 450 100" preserveAspectRatio="none">
                 <text y="50">Katie Wong</text>
               </svg>
               <div className="name">Katie Wong</div>
-              <svg viewBox="-30 -10 400 100" preserveAspectRatio="none">
+              <svg viewBox="-30 -10 450 100" preserveAspectRatio="none">
                 <text y="50">Katie Wong</text>
               </svg>
               <div className="bio">

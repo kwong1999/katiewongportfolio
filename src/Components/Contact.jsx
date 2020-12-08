@@ -15,7 +15,7 @@ class Contact extends Component {
           <link rel="stylesheet" href="Contact.css" />
           <div className="row">
             <div className="col" style={{ width: "55%" }}>
-              <svg viewBox="-50 -50 800 150" preserveAspectRatio="none">
+              <svg viewBox="-20 -50 700 150" preserveAspectRatio="none">
                 <text style={{ strokeWidth: "1.3px" }} y="50">
                   Let's Get In Touch!
                 </text>
