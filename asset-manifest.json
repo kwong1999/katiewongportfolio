@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/katiewongportfolio2020/static/css/main.a496dcd8.chunk.css",
-    "main.js": "/katiewongportfolio2020/static/js/main.39eacacc.chunk.js",
-    "main.js.map": "/katiewongportfolio2020/static/js/main.39eacacc.chunk.js.map",
+    "main.css": "/katiewongportfolio2020/static/css/main.78fe4166.chunk.css",
+    "main.js": "/katiewongportfolio2020/static/js/main.ad243bb4.chunk.js",
+    "main.js.map": "/katiewongportfolio2020/static/js/main.ad243bb4.chunk.js.map",
     "runtime-main.js": "/katiewongportfolio2020/static/js/runtime-main.041f76fe.js",
     "runtime-main.js.map": "/katiewongportfolio2020/static/js/runtime-main.041f76fe.js.map",
     "static/js/2.98c3f6a6.chunk.js": "/katiewongportfolio2020/static/js/2.98c3f6a6.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.21ac6ea1.chunk.js": "/katiewongportfolio2020/static/js/3.21ac6ea1.chunk.js",
     "static/js/3.21ac6ea1.chunk.js.map": "/katiewongportfolio2020/static/js/3.21ac6ea1.chunk.js.map",
     "index.html": "/katiewongportfolio2020/index.html",
-    "static/css/main.a496dcd8.chunk.css.map": "/katiewongportfolio2020/static/css/main.a496dcd8.chunk.css.map",
+    "static/css/main.78fe4166.chunk.css.map": "/katiewongportfolio2020/static/css/main.78fe4166.chunk.css.map",
     "static/js/2.98c3f6a6.chunk.js.LICENSE.txt": "/katiewongportfolio2020/static/js/2.98c3f6a6.chunk.js.LICENSE.txt",
     "static/media/App.css": "/katiewongportfolio2020/static/media/uscUI.b8bbdf12.jpg",
     "static/media/Contact.css": "/katiewongportfolio2020/static/media/SHRIMP.f57b1307.ttf",
@@ -28,7 +28,6 @@
     "static/media/ironridgelogo.df36b1f4.png": "/katiewongportfolio2020/static/media/ironridgelogo.df36b1f4.png",
     "static/media/ledSpecLogo.66effeea.png": "/katiewongportfolio2020/static/media/ledSpecLogo.66effeea.png",
     "static/media/mail.ac863c4a.png": "/katiewongportfolio2020/static/media/mail.ac863c4a.png",
-    "static/media/Experiences.css": "/katiewongportfolio2020/static/media/metallicWater.e57a4fcf.JPG",
     "static/media/mslogo.a359bb39.png": "/katiewongportfolio2020/static/media/mslogo.a359bb39.png",
     "static/media/nibble.30bfb494.png": "/katiewongportfolio2020/static/media/nibble.30bfb494.png",
     "static/media/nibbleSlide1.c24f34d5.png": "/katiewongportfolio2020/static/media/nibbleSlide1.c24f34d5.png",
@@ -42,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.041f76fe.js",
     "static/js/2.98c3f6a6.chunk.js",
-    "static/css/main.a496dcd8.chunk.css",
-    "static/js/main.39eacacc.chunk.js"
+    "static/css/main.78fe4166.chunk.css",
+    "static/js/main.ad243bb4.chunk.js"
   ]
 }
